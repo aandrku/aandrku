@@ -14,6 +14,9 @@ While I’m not a full-fledged software developer (yet!), I enjoy solving real-w
 - Python
 - Bash, Zsh
 
+### 🗄️ Databases
+- SQL (MySQL, Oracle)
+
 ### ⚙️ Operating Systems & Environments
 - Linux
 - macOS
