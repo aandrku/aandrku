@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Andrii 👋
+
+I’m a tech enthusiast with a strong interest in building simple, useful tools — from web apps to command-line utilities. I’m especially drawn to operating systems and how things work under the hood.
+While I’m not a full-fledged software developer (yet!), I enjoy solving real-world problems through scripting, automation, and creative tinkering.
 
 <!--
 **aandrku/aandrku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
