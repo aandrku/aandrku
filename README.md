@@ -6,25 +6,26 @@ While I’m not a full-fledged software developer (yet!), I enjoy solving real-w
 ## My skills
 
 ### 🖥️ Web Technologies
-- HTML, CSS, SCSS
+- HTML, CSS, SCSS, Tailwind
+- HTMX
+- Templ
 - JavaScript, TypeScript
 
 ### 🛠️ App & CLI Tool Development
 - Go
 - Python
 - Bash, Zsh
+- Docker
 
 ### 🗄️ Databases
 - SQL (MySQL, Oracle)
 
-### ⚙️ Operating Systems & Environments
-- Linux
-- macOS
-- Windows
-
-### 🧰 Tools & Workflow
-- Docker
+### 🧰 Setup
+- MacOS/Linux (Ubutnu/Arch)
+- Zen browser
 - Neovim
+- i3wm
+- tmux
 
 <!--
 **aandrku/aandrku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
