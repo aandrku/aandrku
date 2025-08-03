@@ -1,2 +1,2 @@
-# i'm andrri
+# i'm andrii
 i do software development stuff.
